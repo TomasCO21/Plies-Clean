@@ -23,5 +23,5 @@ function Cursoanti() {
   );
 }
 
-export default Cursoanti;
+export default Cursoanti; 
 
