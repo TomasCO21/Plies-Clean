@@ -41,7 +41,7 @@ function TrabajadoresInit() {
               alt="Course 2"
             />
 
-            <p><big><MdCleaningServices/>Cj chimba</big></p>
+            <p><big><MdCleaningServices/>CJ</big></p>
             
             <div className="card-body">
               <h5 className="card-title">10/10</h5>
@@ -72,7 +72,7 @@ function TrabajadoresInit() {
               className="card-img-top"
               alt="Course 4"
             />
-            <p><big><MdCleaningServices/>Negro Cirilo</big></p>
+            <p><big><MdCleaningServices/>Santiago Mosquera</big></p>
             <div className="card-body">
               <h5 className="card-title">8/10</h5>
               <p className="card-text">

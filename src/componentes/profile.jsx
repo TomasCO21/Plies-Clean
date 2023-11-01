@@ -15,7 +15,7 @@ function Profile () {
            <div className="card mb-4">
              <div className="card-body text-center">
                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3.webp" alt = "avatar" className="rounded-circle img-fluid" style ={{ with:"150px"}}/>
-               <h5 className="my-3">Anos Abiertosos</h5>
+               <h5 className="my-3">Juan</h5>
                <p className="text-muted mb-1">limpieza hasta la ultima gota </p>
                <p className="text-muted mb-4">Medellin y municipios de alrededor</p>
                <div className="d-flex justify-content-center mb-3">
@@ -28,7 +28,7 @@ function Profile () {
                <ul className="list-group list-group-flush rounded-3">
                  <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                    <RiGlobalFill/>
-                   <p className="mb-0">@anitosabiertosXD</p>
+                   <p className="mb-0">@juanroberto</p>
                  </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                   <BsGithub/>
@@ -36,7 +36,7 @@ function Profile () {
                  </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <IoLogoTwitter/>
-                   <p className="mb-0">facebook_petito_monolitico_777</p>
+                   <p className="mb-0">facebook_Juan_alberto_porras</p>
                  </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <BsInstagram/>
@@ -59,7 +59,7 @@ function Profile () {
                    <p className="mb-0">Nombre completo</p>
                  </div>
                  <div className="col-sm-9">
-                   <p className="text-muted-mb-o">Anitos chiquitos</p>
+                   <p className="text-muted-mb-o">Juan Carlos Alberto Porras Posada Beatriz</p>
                  </div>
                </div>
                <hr/>

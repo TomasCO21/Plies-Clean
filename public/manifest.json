@@ -1,0 +1,56 @@
+{
+  "short_name": "PC",
+  "name": "Plies Clean",
+  "description": "Plies Clean se encarga de la limpieza de tu hogar de la manera mas facil, tan solo en minutos"
+  "background_color": "#ffffff",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+  
+    {
+      "src": "./img/limpio_32.png",
+      "sizes": "32x32",
+      "type": "limpio_32/png"
+    },
+    {
+      "src": "./img/limpio_48.png",
+      "type": "limpio_48/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/limpio_64.png",
+      "type": "limpio_64/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/limpio_72.png",
+      "type": "limpio_72/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/limpio_96.png",
+      "type": "limpio_96/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/limpio_128.png",
+      "type": "limpio_128/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/limpio_256.png",
+      "type": "limpio_256/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/limpio.png",
+      "type": "limpio/png",
+      "sizes": "512x512"
+    },
+    
+  ]
+}
